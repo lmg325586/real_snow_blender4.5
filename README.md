@@ -1,2 +1,3 @@
 real_snow适配了blender4.5
-原https://github.com/marcopavanello/real-snow
+real_snow has been adapted for Blender 4.5.
+https://github.com/marcopavanello/real-snow
